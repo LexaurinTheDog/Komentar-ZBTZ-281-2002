@@ -264,8 +264,6 @@ Při dozorové činnosti Úřad využívá vedle vlastního zařízení i **refe
 
 **Typicky rozhodné důkazy / podklady:** žádost o výpis a jeho vyřízení, výpis z evidence držitelů povolení, smluvní dokumentace k dodávce, doklad o povolení odběratele.
 
-
-
 **HLAVA II**
 
 **ZÁKAZ BAKTERIOLOGICKÝCH (BIOLOGICKÝCH) A TOXINOVÝCH ZBRANÍ A ZAŘÍZENÍ NA JEJICH VÝROBU**
@@ -332,8 +330,6 @@ Porušení každého z odstavců je přestupkem podle § 21 odst. 1 písm. a) a�
 - [ ] Nenaplňuje jednání znaky trestného činu (§ 280, § 311, § 312d, § 411 TZ) — a není třeba věc postoupit?
 
 **Typicky rozhodné důkazy / podklady:** povolení a jeho rozsah, evidence a deklarace podle § 16, inventury a spotřebové záznamy, projektová a metodická dokumentace, technická dokumentace vybavení, doklady o financování.
-
-
 
 ### § 5
 
